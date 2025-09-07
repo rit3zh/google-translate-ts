@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Google Translate API wrapper written in TypeScript",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/rit3zh/google-translate-ts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc --watch index.ts"
