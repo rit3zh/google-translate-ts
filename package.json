@@ -1,6 +1,6 @@
 {
   "name": "google-translate-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Translate API wrapper written in TypeScript",
   "main": "index.js",
   "repository": {
