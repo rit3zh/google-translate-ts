@@ -7,7 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc --watch index.ts"
   },
-  "keywords": [],
+  "keywords": [
+    "google",
+    "translate",
+    "typescript",
+    "api",
+    "wrapper"
+  ],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.8.0"
