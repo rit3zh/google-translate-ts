@@ -1,0 +1,19 @@
+# Ignore dependencies
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Ignore TypeScript source if you're publishing only compiled files
+index.ts
+src/
+
+# Ignore test files
+*.test.ts
+__tests__/
+
+# Ignore configs and local files
+tsconfig.json
+.npmignore
+.DS_Store
